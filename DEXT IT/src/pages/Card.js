@@ -35,7 +35,7 @@ const Card = () => {
       
         <img
           
-          src="bridgepic.jpg"
+          src="bridgepic.png"
           title="Title of image"
           alt="alt text here"
           
